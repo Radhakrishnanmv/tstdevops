@@ -1,0 +1,11 @@
+﻿<ETBFDetails>
+  <CustomerNumber>1</CustomerNumber>
+  <CustomerLocation>US</CustomerLocation>
+  <CustomerDestination>US</CustomerDestination>
+  <ActualQuantity>1</ActualQuantity>
+  <KEMETPartNumber>1</KEMETPartNumber>
+  <SourcePlantCode>1</SourcePlantCode>
+  <ScheduledShipDate>01/20/2020</ScheduledShipDate>
+  <ScheduledInHouseDate>01/20/2020</ScheduledInHouseDate>
+  <LineItemNumber>1</LineItemNumber>
+</ETBFDetails>

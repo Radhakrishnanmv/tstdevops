@@ -1,0 +1,12 @@
+﻿<ETBFDetails>
+  <CustomerNumber>00035E</CustomerNumber>
+  <CustomerLocation>EDMONTON</CustomerLocation>
+  <CustomerDestination>AB</CustomerDestination>
+  <ActualQuantity>1</ActualQuantity>
+  <KEMETPartNumber>C0603C100J5GAC</KEMETPartNumber>
+  <SourcePlantCode>EW6</SourcePlantCode>
+  <ScheduledShipDate>05/01/2020</ScheduledShipDate>
+  <ScheduledInHouseDate>01/20/2020</ScheduledInHouseDate>
+  <LineItemNumber>013A</LineItemNumber>
+  <PackingList>PO134</PackingList>
+  </ETBFDetails>
